@@ -1,7 +1,7 @@
 import requests
 import time
 
-BOT_TOKEN = "8712888385:AAHvRlvqrCCHf68aal6DY6FE6R8V4YWuHZc"
+BOT_TOKEN ="
 BASE_URL = f"https://api.telegram.org/bot{BOT_TOKEN}"
 
 INSTAGRAM_URL = "https://www.instagram.com/patisseriedelirante?igsh=bjltYjN4bXZmZTc1&utm_source=qr"
